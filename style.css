@@ -304,18 +304,18 @@ section {
 
 /* EXPERIENEC */
 
-#experience {
+#skills {
     position: relative;
 }
 
-.experience-sub-title{
+.skills-sub-title{
     color: rgb(85,85,85);
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
 }
 
-.experience-details-container{
+.skills-details-container{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -367,6 +367,24 @@ article .icon{
     color: black;
     border-color: rgb(163,163,163);
 }
+
+.btn-color-3 {
+    border: rgb(53,53,53) 0.1rem solid;
+}
+
+.btn-color-3:hover {
+    cursor: default;
+}
+
+.btn-color-3 {
+    background: rgb(53,53,53);
+    color: white;
+}
+
+.btn-color-3:hover{
+    background: rgb(0,0,0);
+}
+
 
 /* CONTACT SECTION */
 
